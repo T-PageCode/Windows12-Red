@@ -9,6 +9,7 @@ const inputKeyIcon = document.getElementById("input-key-icon");
 const iNoKey = document.getElementById("i-no-key");
 const windowMsgKeyWarning = document.getElementById("window-msg-key-warning");
 const keyExample = document.getElementById("key-example");
+const go = document.getElementById("go");
 function install_win12() {
     setupInstallNowWinLogo.style.opacity = "0";
     setupTitle.style.opacity = "0";
@@ -27,6 +28,8 @@ function install_win12() {
             iNoKey.style.opacity = "1";
             keyExample.style.visibility = "visible";
             keyExample.style.opacity = "1";
+            go.style.visibility = "visible";
+            go.style.opacity = "1";
         },250)
         /* installNow.style.visibility = "visible";
         installWin12ingPleaseWait.style.visibility = "visible";
