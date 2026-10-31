@@ -1,4 +1,4 @@
-# Windows12-Horror
-Windows12恐怖版(其实就是改成红色的Windows12-Concept)<br>
+# Windows12-Red
+Windows12红色版<br>
 
-正常版请前往<https://github.com/T-PageCode/Windows12-Concept
+紫色版请前往<https://github.com/T-PageCode/Windows12-Concept
